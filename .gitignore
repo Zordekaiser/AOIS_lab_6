@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/AOIS_lab_6.sln
+/AOIS_lab_6.vcxproj
+/AOIS_lab_6.vcxproj.filters
+/AOIS_lab_6.vcxproj.user
+/.vs/AOIS_lab_6/v17
+/.vs/AOIS_lab_6/FileContentIndex
